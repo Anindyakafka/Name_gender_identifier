@@ -29,7 +29,7 @@ pip install pandas numpy scikit-learn joblib
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone <[repository_url](https://github.com/Anindyakafka/Name_gender_identifier.git)>
    ```
 
 2. Navigate to the project directory:
